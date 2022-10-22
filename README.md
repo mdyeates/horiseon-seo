@@ -25,6 +25,7 @@ There you will see semantic HTML elements such as header, main, section, aside o
 
  ![A screenshot of the deployed website](assets/images/screenshot.png)
 
+
 ## Credits
 
 This application was built using these resources:
@@ -34,6 +35,14 @@ This application was built using these resources:
 [Why Use Semantic HTML](https://www.thoughtco.com/why-use-semantic-html-3468271)
 
 [Semantic HTML Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+## Badges
+
+[Issues](https://img.shields.io/github/issues/mdyeates/horiseon-seo)
+
+[Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmdyeates%2Fhoriseon-seo)
+
+[License](https://img.shields.io/github/license/mdyeates/horiseon-seo)
 
 ## License
 
