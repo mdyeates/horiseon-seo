@@ -22,17 +22,21 @@ To review the semantic HTML elements on this page without a screen-reader, you c
 
 To review the code on the website you can open Chrome DevTools by pressing Command+Options+I (macOS) or Control+Shift+I (Windows). A console panel should open below or to the side of the webpage in the browser. There you will see semantic HTML elements such as <header>, <main>, <section>, <aside> or <footer>.
 
+
+
  ![A screenshot of the deployed website](assets/images/screenshot.png)
+ 
+ 
 
 ## Credits
 
-https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf
+This application was built using these resources:
 
-https://www.thoughtco.com/why-use-semantic-html-3468271 
+[HTML Cheat Sheet] (https://websitesetup.org/wp-content/uploads/2019/10/WSU-HTML-Cheat-Sheet.pdf)
 
-https://www.youtube.com/watch?v=g2tzEil5TL0&ab_channel=GoogleChromeDevelopers
+[Why Use Semantic HTML](https://www.thoughtco.com/why-use-semantic-html-3468271)
 
-https://www.w3schools.com/html/html5_semantic_elements.asp
+[Semantic HTML Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ## License
 
