@@ -10,6 +10,8 @@ This application was created for a marketing agency that follows accessibility s
 
 Furthermore, I improved the codebase by ensuring all links are functioning correctly, logically structuring semantic HTML elements, consolidating the CSS selectors, adding comments to improve readability, and including a descriptive title to improve search engine optimisation and accessibility. 
 
+[A link to the deployed website](https://mdyeates.github.io/horiseon-seo/)
+
 ## Installation
 
 N/A
