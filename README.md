@@ -36,14 +36,11 @@ This application was built using these resources:
 
 [Semantic HTML Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-## Badges
+## Contact
 
-[Issues](https://img.shields.io/github/issues/mdyeates/horiseon-seo)
+![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmdyeates%2Fhoriseon-seo)
 
-[Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fmdyeates%2Fhoriseon-seo)
-
-[License](https://img.shields.io/github/license/mdyeates/horiseon-seo)
 
 ## License
 
-Please refer to the LICENSE in the repo.
+![License](https://img.shields.io/github/license/mdyeates/horiseon-seo)
