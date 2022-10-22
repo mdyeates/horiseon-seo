@@ -14,34 +14,35 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
-} /* styles navigation links */
+} 
 
+p {
+    font-size: 16px;
+}
+
+/* || Headings */
 h1 {
     display: inline-block;
     font-size: 48px;
-} /* styles main header */
+}
 
 h2 {
-    margin-bottom: 20px;
+    margin-bottom: 20px; /* styles main sections */
     font-size: 36px;
-} /* styles main section headers*/
+} 
 
 h3 {
-    margin-bottom: 10px;
+    margin-bottom: 10px; /* styles sidebar */
     text-align: center;
-} /* styles sidebar section headers */
+} 
 
 h4 {
-    font-size: 20px;
-} /* styles footer */
+    font-size: 20px; /* styles footer */
+} 
 
 /* || Header and Main Navigation */
 header {
@@ -52,8 +53,8 @@ header {
 }
 
 strong {
-    color: #d9dcd6;
-} /* styles 'seo' in h1 tag in the header */
+    color: #d9dcd6; /* styles 'seo' in h1 in header */
+} 
 
 nav {
     padding-top: 15px;
@@ -73,8 +74,8 @@ nav {
     background-position: center;
 }
 
-/* || Main */
-.contents {
+/* || Main Sections */
+.all-content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -89,20 +90,20 @@ nav {
     color: #ffffff;
 }
 
-.float-left {
-    float: left;
+.float-left { 
+    float: left; /* styles top and bottom section img */
     margin-right: 25px;
     max-height: 200px;
 }
 
-.float-right {
-    float: right;
+.float-right { 
+    float: right; /* styles middle section img */
     margin-left: 25px;
     max-height: 200px;
 }
 
-/* || Sidebar */
-.benefits {
+/* || Sidebar Benefits */
+.all-benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -113,15 +114,15 @@ nav {
     background-color: #2589bd;
 }
 
-.benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefits img {
+.all-benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
 }
 
 /* || Footer */
