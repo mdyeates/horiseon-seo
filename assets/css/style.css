@@ -74,7 +74,7 @@ nav {
     background-position: center;
 }
 
-/* || Main Sections */
+/* || Main Sections (Techniques) */
 .all-content {
     width: 75%;
     display: inline-block;
@@ -102,7 +102,7 @@ nav {
     max-height: 200px;
 }
 
-/* || Sidebar Benefits */
+/* || Sidebar (Benefits) */
 .all-benefits {
     margin-right: 20px;
     padding: 20px;
