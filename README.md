@@ -8,6 +8,8 @@ To improve accessibility and SEO, I logically structured semantic HTML elements,
 
 [A link to the deployed website](https://mdyeates.github.io/horiseon-seo/)
 
+![A screenshot of the deployed website](assets/images/screenshot.png)
+
 ## Installation
 
 N/A
@@ -18,13 +20,7 @@ Screen readers can be used by individuals with vision impairments to access this
 
 To review the semantic HTML elements on this page without a screen reader, you can view the code in GitHub or open the deployed website and access Chrome DevTools. You can open Chrome DevTools by pressing Command+Options+I (macOS) or Control+Shift+I (Windows). A console panel should open below or to the side of the webpage in the browser. There you will see semantic HTML elements such as header, main, section, aside or footer.
 
-Furthermore, you can run an accessibility and SEO audit with the use of Lighthouse in Chrome DevTools. 
-This website scored 97 for accessibility, 92 for best practices and 100 for SEO. 
-
-![Accessiblity and Seo Audit](assets/images/lighthouse.png)
-
-![A screenshot of the deployed website](assets/images/screenshot.png)
-
+![Code Snippet](assets/images/code.png)
 
 ## Credits
 
@@ -35,6 +31,13 @@ This application was built using these resources:
 [Why Use Semantic HTML](https://www.thoughtco.com/why-use-semantic-html-3468271)
 
 [Semantic HTML Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+## Tests
+
+You can run an accessibility and SEO audit with the use of Lighthouse in Chrome DevTools. 
+This website scored 97 for accessibility, 92 for best practices and 100 for SEO. 
+
+![Accessiblity and Seo Audit](assets/images/lighthouse.png)
 
 ## Contact
 
