@@ -48,3 +48,5 @@ This application was built using these resources:
 ## License
 
 ![License](https://img.shields.io/github/license/mdyeates/horiseon-seo)
+
+For more information, please refer to the LICENSE in the repo.
